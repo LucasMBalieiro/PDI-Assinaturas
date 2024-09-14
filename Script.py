@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from Detecções import detect_lines, exibir_imagens, detect_circulos, detect_linhas_e_circulos, Identificação
+from Detecção import detect_lines, exibir_imagens, detect_circulos, detect_linhas_e_circulos, Identificação
 from Tratamentos import tratamento_imagem
 from Matching import matching
 
